@@ -1,0 +1,12 @@
+Source: geoblankon-peta
+Section: misc
+Priority: extra
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.4
+
+Package: geoblankon-peta
+Architecture: all
+Depends: ${misc:Depends}, maleo
+Description: GeoBlankOn client viewer
+ GeoBlankOn peta viewer for BlankOn Linux Distribution developed by BlankOn project.
